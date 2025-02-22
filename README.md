@@ -6,7 +6,7 @@
 
 <main>
 <img align="right" alt="Platform" height="400" src="https://easi.net/sites/default/files/styles/inline_image/public/2024-08/power_automate.png?itok=spWtXFW8">
-<p align="justify"><h1> 1° Laboratório da trilha de cloud DIO.</h1>
+<p align="justify"><h1> 1° Laboratório da trilha de Copilot Studio DIO.</h1>
 <br/>
 O intuito deste laboratório é apresentar um pouco sobre o que foi estudado nas primeiras aulas de copilot studio, visando testar os conhecimentos adquiridos durante as videoaulas.
 </p>
